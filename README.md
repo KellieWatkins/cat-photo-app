@@ -23,7 +23,7 @@
         </ul>
         <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
+          <ln><figcaption>Cats <em>love</em> lasagna.</figcaption></ln> 
         </figure>
         <h3>Top 3 things cats hate:</h3>
         <ol>
@@ -33,7 +33,7 @@
         </ol>
         <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
-          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
+         <ln><figcaption>Cats <strong>hate</strong> other cats.</figcaption></ln>  
         </figure>
       </section>
     </main>
